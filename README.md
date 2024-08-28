@@ -1,3 +1,3 @@
 # Installation Composer
 
-(https://getcomposer.org/download/)[Composer]
+[Composer](https://getcomposer.org/download/)
